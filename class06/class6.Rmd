@@ -2,7 +2,7 @@
 title: 'Class 6: R functions'
 author: "Michelle Janossy"
 date: "4/18/2019"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
@@ -81,14 +81,12 @@ rescale( c(1,2,NA,3,10) )
 ```
 
 ```{r}
-rescale( c(1,10,"string") )
+#rescale( c(1,10,"string") )
 ```
 
 ```{r}
-rescale <- function(x)
- rng <-range(x, na.rm = TRUE)
- #rng
- (x - rng[1]) / (rng[2] - rng[1])
+#rescale <- function(x) rng <-range(x, na.rm = TRUE)
+ #rng(x - rng[1]) / (rng[2] - rng[1])
 ```
 
 ```{r}
