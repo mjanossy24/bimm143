@@ -14,5 +14,5 @@ This is my classwork from [BIMM143 Spring 19](https://bioboot.github.io/bimm143_
 - class 14: Transcriptomics and the analysis of RNA-Seq data 
 - class 15: Genome annotation and the interpretation of gene lists 
 - class 16: Essential UNIX for bioinformatics 
-- class 17: Biological network analysis 
+- class 17: Biological network analysis(https://github.com/mjanossy24/bimm143/blob/master/Class%2017/Class_17.md) 
 - class 18: Cancer genomics
