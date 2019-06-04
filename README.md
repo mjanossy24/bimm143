@@ -9,8 +9,8 @@ This is my classwork from [BIMM143 Spring 19](https://bioboot.github.io/bimm143_
 - class 09: [Unsupervised learning mini-project](https://github.com/mjanossy24/bimm143/blob/master/Class09%20Mini%20Project/Class9_Mini_Project.md)
 - class 10: Hands-on with Git
 - class 11: [Structural Bioinformatics (Part 1)](https://github.com/mjanossy24/bimm143/blob/master/Class11/Class11.md) 
-- class 12: [Bioinformatics in drug discovery and design] 
-- class 13: [Genome informatics and high throughput sequencing (Part 1)(https://github.com/mjanossy24/bimm143/blob/master/Class13/Class13.md)] 
+- class 12: [Bioinformatics in drug discovery and design](https://github.com/mjanossy24/bimm143/blob/master/class12/class12.md) 
+- class 13: [Genome informatics and high throughput sequencing (Part 1)](https://github.com/mjanossy24/bimm143/blob/master/Class13/Class13.md) 
 - class 14: [Transcriptomics and the analysis of RNA-Seq data](https://github.com/mjanossy24/bimm143/blob/master/Class14/Class14.md) 
 - class 15: [Genome annotation and the interpretation of gene lists](https://github.com/mjanossy24/bimm143/blob/master/Class15/class15.md) 
 - class 16: [Essential UNIX for bioinformatics] 
