@@ -6,7 +6,7 @@ This is my classwork from [BIMM143 Spring 19](https://bioboot.github.io/bimm143_
 - class 06: R graphics, generating plots with R
 - class 07: Bioinformatics R packages from CRAN and BioConductor 
 - class 08: Introduction to machine learning for Bioinformatics 1(https://github.com/mjanossy24/bimm143/blob/master/Class08/Class08.md) 
-- class 09: Unsupervised learning mini-project 
+- class 09: Unsupervised learning mini-project(https://github.com/mjanossy24/bimm143/blob/master/Class09%20Mini%20Project/Class9_Mini_Project.md)
 - class 10: Hands-on with Git 
 - class 11: Structural Bioinformatics (Part 1) 
 - class 12: Bioinformatics in drug discovery and design 
