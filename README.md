@@ -15,4 +15,4 @@ This is my classwork from [BIMM143 Spring 19](https://bioboot.github.io/bimm143_
 - class 15: Genome annotation and the interpretation of gene lists 
 - class 16: Essential UNIX for bioinformatics 
 - class 17: Biological network analysis(https://github.com/mjanossy24/bimm143/blob/master/Class%2017/Class_17.md) 
-- class 18: Cancer genomics
+- class 18: Cancer genomics(https://github.com/mjanossy24/bimm143/blob/master/Class%2018/Class_18.md)
