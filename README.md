@@ -4,7 +4,7 @@ This is my classwork from [BIMM143 Spring 19](https://bioboot.github.io/bimm143_
 
 - class 05: R basics, data structures and data input
 - class 06: [R graphics, generating plots with R](https://github.com/mjanossy24/bimm143/blob/master/class06/class6.md)
-- class 07: [Bioinformatics R packages from CRAN and BioConductor] 
+- class 07: [Bioinformatics R packages from CRAN and BioConductor](https://github.com/mjanossy24/bimm143/blob/master/class07/class07.md) 
 - class 08: [Introduction to machine learning for Bioinformatics 1](https://github.com/mjanossy24/bimm143/blob/master/Class08/Class08.md) 
 - class 09: [Unsupervised learning mini-project](https://github.com/mjanossy24/bimm143/blob/master/Class09%20Mini%20Project/Class9_Mini_Project.md)
 - class 10: Hands-on with Git
